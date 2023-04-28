@@ -10,7 +10,7 @@
 # Binaries
 *.png filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
-*.ico binary
+*.ico filter=lfs diff=lfs merge=lfs -text
 *.gif filter=lfs diff=lfs merge=lfs -text
-*.zip binary
+*.zip filter=lfs diff=lfs merge=lfs -text
 *.psd filter=lfs diff=lfs merge=lfs -text
